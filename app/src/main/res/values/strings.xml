@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidBluetoothExample</string>
+    <string name="app_name">BoringCricket</string>
     <string name="toolbarTitle">Android Bluetooth Example</string>
     <string name="openbt">Open Bluetooth</string>
     <string name="makeVisible">Make Bluetooth Visible</string>
@@ -21,6 +21,6 @@
     <string name="title_other_devices">Other Available Devices</string>
     <string name="button_scan">Scan for devices</string>
     <!-- Options Menu -->
-    <string name="connect">Connect a device</string>
+    <string name="connect">Invite A Player</string>
     <string name="discoverable">Make discoverable</string>
 </resources>
